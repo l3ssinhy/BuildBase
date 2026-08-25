@@ -1,4 +1,4 @@
-const imagemPadrao = 'https://placehold.co/150';
+const imagemPadrao = 'Fonte.webp';
 
 // Função assíncrona que simula a resposta de uma API
 async function buscarPecas() {
@@ -7,7 +7,7 @@ async function buscarPecas() {
     { nome: "Placa de Vídeo RTX 4060", categoria: "placas-video", preco: 1999, imagem: imagemPadrao },
     { nome: "Memória RAM 16GB DDR4", categoria: "memorias", preco: 280, imagem: imagemPadrao },
     { nome: "SSD NVMe 1TB", categoria: "ssds", preco: 420, imagem: imagemPadrao },
-    { "nome": "Fonte Corsair 650W 80 Plus", categoria: "fontes", preco: 380.00, imagem:imagemPadrao}
+    { nome: "Fonte Corsair 650W 80 Plus", categoria: "fontes", preco: 380.00, imagem:imagemPadrao}
   ];
 }
 
