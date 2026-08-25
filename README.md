@@ -43,3 +43,14 @@ Além disso, o projeto busca oferecer uma interface simples, organizada e respon
 ## 📚 Sobre o projeto
 
 Este projeto foi desenvolvido como parte da **Sprint - Consumo de API**, com foco na utilização de JavaScript assíncrono para realizar requisições a uma API e apresentar os dados obtidos de forma dinâmica ao usuário.
+
+## ⚙️ Como rodar o projeto localmente
+
+1. Clone o repositório:
+   git clone https://github.com/l3ssinhy/BuildBase.git
+
+2. Acesse a pasta do projeto e abra o arquivo `index.html` em qualquer navegador.
+
+## 👤 Autor
+
+Desenvolvido por André Passos dos Santos & Lucas Farias Lessa. User no Github: andre2353 & l3ssinhy.
