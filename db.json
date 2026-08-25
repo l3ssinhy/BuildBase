@@ -1,0 +1,7 @@
+[
+  { "nome": "Processador Ryzen 5 5600X", "categoria": "processadores", "preco": 950.00, "imagem": "https://via.placeholder.com/150" },
+  { "nome": "Placa de Vídeo RTX 4060 8GB", "categoria": "placas-video", "preco": 1999.00, "imagem": "https://via.placeholder.com/150" },
+  { "nome": "Memória RAM 16GB DDR4", "categoria": "memorias", "preco": 280.00, "imagem": "https://via.placeholder.com/150" },
+  { "nome": "SSD NVMe 1TB Kingston", "categoria": "ssds", "preco": 420.00, "imagem": "https://via.placeholder.com/150" },
+  { "nome": "Fonte Corsair 650W 80 Plus", "categoria": "fontes", "preco": 380.00, "imagem": "https://via.placeholder.com/150" }
+]
